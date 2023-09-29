@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-hello <prenom> _ghfguiotiçtrt
-uidfhfdhf
-=======
 hello nene _ghfguiotiçtrt
->>>>>>> 369c5bfa58d31578a2a1defaafd718dae97a39eb
+uidfhfdhf
